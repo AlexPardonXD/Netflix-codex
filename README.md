@@ -1,4 +1,4 @@
-# Netflix-codex
+# Spotify-codex
 decode by AlexPardonXD
 /code for only production
 /no personal revenue will be generated
